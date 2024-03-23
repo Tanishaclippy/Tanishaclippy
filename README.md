@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanisha Jawale</h1>
 <h3 align="center">A second year Computer Engineering Student</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/guNK8xL1VULqqAZZA">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/wU8Jzk3Xg9yKFaxr8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishaclippy&label=Profile%20views&color=0e75b6&style=flat" alt="tanishaclippy" /> </p>
 
 <h3 align="left">Connect with me:</h3>
