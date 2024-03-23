@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanisha Jawale</h1>
 <h3 align="center">A second year Computer Engineering Student</h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/code-review-concept-illustration_11435030.htm#query=female%20programmer&position=34&from_view=keyword&track=ais&uuid=d6fa3651-e2b0-43bb-a304-ee2ca14a28a5">
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/guNK8xL1VULqqAZZA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishaclippy&label=Profile%20views&color=0e75b6&style=flat" alt="tanishaclippy" /> </p>
 
 <h3 align="left">Connect with me:</h3>
