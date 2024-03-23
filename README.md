@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanisha Jawale</h1>
 <h3 align="center">A second year Computer Engineering Student</h3>
-<img align="right" alt="coding" width="400" src="68747470733a2f2f63646e33642e69636f6e73636f75742e636f6d2f33642f7072656d69756d2f7468756d622f627573696e6573732d776f6d616e2d776f726b696e672d6f6e2d6c6170746f702d363535393631302d353433313834392e706e67">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5d6886cb1270c39c56aa3293929e9cacbc9df67b986c28327ba903212936e4f8/68747470733a2f2f63646e33642e69636f6e73636f75742e636f6d2f33642f7072656d69756d2f7468756d622f627573696e6573732d776f6d616e2d776f726b696e672d6f6e2d6c6170746f702d363535393631302d353433313834392e706e67">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishaclippy&label=Profile%20views&color=0e75b6&style=flat" alt="tanishaclippy" /> </p>
 
 <h3 align="left">Connect with me:</h3>
